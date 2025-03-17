@@ -1,3 +1,4 @@
 ## Hi there 👋
-![주 사용 언어](https://img.shields.io/github/languages/top/parksanghan/Csharp.NET)
- 
+![C#](https://img.shields.io/badge/C%23-Used-in-Repo-blue)
+![Python](https://img.shields.io/badge/Python-Used-in-Repo-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Used-in-Repo-orange)
