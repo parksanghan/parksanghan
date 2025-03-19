@@ -6,8 +6,6 @@
 
  
 
-## 📌 My Repositories  
-
 <table>
   <tr>
     <td>
@@ -37,6 +35,8 @@
     <td>
       <a href="https://github.com/parksanghan/Keroro_Fighter">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=Keroro_Fighter" />
+        <br>
+        <img src="https://i.namu.wiki/i/rxmUB44q3yK6yHyb4Q3E75dISfvukIGbGDWa4W2mleNHmEdOToA3NF9wgkJvT3vaP4oGRjjWX8I4xsM-zcs6mg.webp" width="120">
       </a>
     </td>
     <td>
@@ -46,3 +46,4 @@
     </td>
   </tr>
 </table>
+
