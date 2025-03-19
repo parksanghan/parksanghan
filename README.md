@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan)](https://github.com/anuraghazra/github-readme-stats)
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parksanghan)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 📌 My Repositories  
+## 📌 저장소  
 
 <table>
   <tr>
