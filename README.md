@@ -44,7 +44,7 @@
     <td>
       <a href="https://github.com/parksanghan/Keroro_Pang_Pang">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=Keroro_Pang_Pang" />
-         <img src="https://img.shields.io/badge/Keroro_Pang_Pang%2300AEEF.svg?style=for-the-badge&logo=keroro&logoColor=white" />
+         <img src="https://img.shields.io/badge/Keroro_Pang_Pang-%2300AEEF.svg?style=for-the-badge&logo=keroro&logoColor=white" />
       </a>
     </td>
   </tr>
