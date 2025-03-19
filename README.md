@@ -1,7 +1,7 @@
 ## 박상한 👋  
 [![trophy](https://github-profile-trophy.vercel.app/?username=parksanghan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Trophy Rank](https://img.shields.io/badge/Trophy-%238A2BE2.svg?style=flat-square&logo=trophy&logoColor=white)
+ 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
