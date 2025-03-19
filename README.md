@@ -1,5 +1,6 @@
 ## 박상한 👋  
-[![trophy](https://github-profile-trophy.vercel.app/?username=parksanghan)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=parksanghan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Trophy Rank](https://img.shields.io/badge/Trophy-%238A2BE2.svg?style=flat-square&logo=trophy&logoColor=white)
 
 
