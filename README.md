@@ -36,7 +36,6 @@
       <a href="https://github.com/parksanghan/Keroro_Fighter">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=Keroro_Fighter" />
       </a>
-      <br>
       <a href="https://github.com/parksanghan/Keroro_Fighter">
         <img src="https://img.shields.io/badge/Keroro_Fighter-%2300AEEF.svg?style=for-the-badge&logo=keroro&logoColor=white" />
       </a>
