@@ -38,15 +38,13 @@
   </tr>
   <tr>
     <td>
-         <a href="https://github.com/parksanghan/ML_DL_Keras">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=ML_DL_Keras&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/parksanghan/MAUI">
+        <a href="https://github.com/parksanghan/MAUI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=MAUI&theme=tokyonight" />
       </a>
     </td>
+    <td>
+        <a href="https://github.com/parksanghan/ML_DL_Keras">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=ML_DL_Keras&theme=tokyonight" />
   </tr>
   <tr>
     <td>
