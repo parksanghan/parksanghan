@@ -19,15 +19,9 @@
 
 
 ## 🧠 Language Statsㅡ
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm&theme=midnight-purple)
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm&theme=radical)
-
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
