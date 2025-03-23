@@ -16,8 +16,11 @@
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+## 🧠 Language Stats for Csharp.NET
 ![Csharp.NET Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&repo=Csharp.NET&layout=compact)
- 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
