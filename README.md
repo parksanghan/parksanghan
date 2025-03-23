@@ -21,7 +21,6 @@
 ## 🧠 Language Stats
  
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&theme=tokyonight&card_width=420&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&theme=tokyonight&card_width=420&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parksanghan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
