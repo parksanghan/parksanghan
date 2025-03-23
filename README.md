@@ -19,7 +19,8 @@
 
 
 ## 🧠 Language Stats for Csharp.NET
-![Csharp.NET Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&repo=Csharp.NET&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
