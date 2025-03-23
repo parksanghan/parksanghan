@@ -17,8 +17,7 @@
  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
-## 🧠 Language Stats
+ 
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&theme=tokyonight&card_width=420&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
