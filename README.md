@@ -21,6 +21,7 @@
 ## 🧠 Language Stats for Csharp.NET
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,hlsl,hcl,html,c++,mdx,llvm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=jupyter%20notebook,hlsl,hcl,html,c++,mdx,llvm)
 
 
 
