@@ -18,7 +18,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-## 🧠 Language Statsㅡ
+## 🧠 Language Stats
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact&hide=python,jupyter%20notebook,java,hlsl,hcl,html,c++,mdx,llvm&theme=tokyonight)
