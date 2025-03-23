@@ -17,7 +17,7 @@
  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksanghan&layout=compact)
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
