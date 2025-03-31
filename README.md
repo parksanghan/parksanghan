@@ -1,6 +1,8 @@
 ![Profile Name](https://img.shields.io/badge/a_crszkvc30Last_NameCol-%238A2BE2.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=parksanghan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=parksanghan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
  ## 🛠 Tech Stack 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
