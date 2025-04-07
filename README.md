@@ -27,7 +27,7 @@
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parksanghan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## 📌 저장소  
+## 📌 Repository 
 
 <table>
   <tr>
