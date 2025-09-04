@@ -26,6 +26,8 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksanghan&show_icons=true&theme=tokyonight)
 
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parksanghan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
  
 
 ## 📌 Repository 
