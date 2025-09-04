@@ -52,6 +52,7 @@
         <a href="https://github.com/parksanghan/ML_DL_Keras">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=parksanghan&repo=ML_DL_Keras&theme=tokyonight" />
   </tr>
+           <!--
   <tr>
     <td>
       <a href="https://github.com/parksanghan/Keroro_Fighter">
@@ -64,4 +65,6 @@
       </a>
     </td>
   </tr>
+           -
+   -->
 </table>
