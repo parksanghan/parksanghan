@@ -3,7 +3,7 @@
 <div align="center">
 안녕하세요 IT융합학부 컴퓨터정보보안 전공 박상한입니다.  
 .NET 기반 풀스택 개발을 주력으로 하며  
-WPF, ASP.NET Core, .NET MAUI 등을 다루고 있습니다.  
+WPF, ASP.NET , .NET MAUI 등을 다루고 있습니다.  
 
 끊임없이 성장하는 개발자를 목표로 하고 있습니다. 
 
